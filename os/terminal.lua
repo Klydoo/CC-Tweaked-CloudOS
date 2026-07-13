@@ -1,0 +1,6 @@
+term.clear()
+term.setCursorPos(1,1)
+print("CloudOS")
+print("(c) Cloud Corporation")
+print("Use 'back' to return to Start Menu")
+print("----------------------------------")
